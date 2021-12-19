@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/activity_form.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/activity_form_maps.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/activity_show_maps.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/fragment_home.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/fragment_productos.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/fragment_servicios.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/fragment_sucursales.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/grid_item.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/menu/activity_main_drawer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fpala/Mision TIC 2022/Ciclo 4/Desarrollo de Aplicaciones Moviles/Proyectos Clase/Reto22/app/src/main/res/menu/main.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
